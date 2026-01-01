@@ -1,7 +1,6 @@
 # **Pizza Sales Performance Analysis**
 **SQL | Microsoft Excel | Business Analytics**
 
----
 
 ## **Executive Summary**
 
@@ -13,7 +12,6 @@ This project analyzes pizza sales data to uncover **revenue trends**, **customer
 - Evaluated **21,350 orders** and **49,574 pizzas sold**  
 - Built a **KPI-driven Excel dashboard** to support operational and strategic decisions  
 
----
 
 ## **Business Problem**
 
@@ -26,9 +24,8 @@ The pizza restaurant lacked a **centralized view of sales performance**. Stakeho
 
 Without structured analysis and visualization, business decisions were based on assumptions rather than data.
 
----
 
-## **Solution Overview**
+### **Solution Overview**
 
 **SQL-based analysis** was combined with an **Excel dashboard** to convert raw transaction data into actionable business insights.
 
@@ -41,7 +38,6 @@ Without structured analysis and visualization, business decisions were based on 
   - **Category and size-wise sales breakdown**
   - **Best and worst-selling pizza analysis**
 
----
 
 ## **Methodology**
 
@@ -60,7 +56,6 @@ Without structured analysis and visualization, business decisions were based on 
 **SQL Queries:**  
 [View SQL Queries](https://github.com/SRK0724/Pizza-Sales-Performance-Analysis/blob/main/PIZZA%20SALES%20SQL%20QUERIES.pdf)
 
----
 
 ### **Dashboard Design (Excel)**
 - **Pivot Tables** for dynamic aggregation  
@@ -69,10 +64,6 @@ Without structured analysis and visualization, business decisions were based on 
 - **Conditional formatting** for quick insight recognition  
 - Structured layout focused on **business readability**
 
-**Excel Dashboard:**  
-[View Excel Dashboard](https://github.com/SRK0724/Pizza-Sales-Performance-Analysis/blob/main/pizza_sales%20excel%20file.xlsx)
-
----
 
 ## **Key Insights**
 
@@ -83,7 +74,6 @@ Without structured analysis and visualization, business decisions were based on 
 - **Classic Deluxe** and **Barbecue Chicken** are top-selling pizzas  
 - **Brie Carre Pizza** shows consistently low demand  
 
----
 
 ## **Business Recommendations**
 
@@ -92,7 +82,6 @@ Without structured analysis and visualization, business decisions were based on 
 - Review pricing or positioning of **low-selling pizzas**  
 - Use **combo offers** to balance sales across the menu  
 
----
 
 ## **Quantified Impact**
 
@@ -101,13 +90,7 @@ Without structured analysis and visualization, business decisions were based on 
 - **2.32** pizzas per order  
 - Clear identification of **peak demand windows** and **revenue drivers**
 
----
 
-## **Dashboard Preview**
-
-[View Dashboard Screenshot](https://github.com/SRK0724/Pizza-Sales-Performance-Analysis/blob/main/Dashboard.png)
-
----
 
 ## **Skills Used**
 
@@ -116,7 +99,12 @@ Without structured analysis and visualization, business decisions were based on 
 - **Data Analysis & Business Insight Generation**  
 - **Analytical and Problem-Solving Skills**
 
----
+
+
+## **Dashboard Preview**
+
+![View Dashboard](https://github.com/SRK0724/Pizza-Sales-Performance-Analysis/blob/main/Dashboard.png)
+
 
 ## **Next Steps**
 
@@ -125,9 +113,10 @@ Without structured analysis and visualization, business decisions were based on 
 - Automate Excel dashboard refresh using **Power Query**  
 - Segment customers to analyze **repeat purchase behavior**
 
----
 
-Created by Sivaramakrishna Bandla
-Mail: sivaramakrishnabandla970@gmail.com
-[Linkedin:](https://www.linkedin.com/in/sivaramakrishnacareergpt/)
+Created by **Sivaramakrishna Bandla**
+
+Mail: **sivaramakrishnabandla970@gmail.com**
+
+Linkedin: [https://www.linkedin.com/in/sivaramakrishnacareergpt/](https://www.linkedin.com/in/sivaramakrishnacareergpt/)
 
